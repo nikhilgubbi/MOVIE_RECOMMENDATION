@@ -10,7 +10,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## How to get the API key?
 
-Create an account in https://www.themoviedb.org/, click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. You will see the API key in your `API` sidebar once your request is approved.
+Create an account in https://www.themoviedb.org/, click on the more and click on `API` link from the left hand sidebar and fill all the details to apply for API key. You will see the API key in your `API` sidebar once your request is approved.
 
 ## How to run the project?
 
